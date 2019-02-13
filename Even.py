@@ -4,4 +4,4 @@ if c<0:
 elif (c%2==0):
     print("Even")
 else:
-    print("odd")
+    print("Odd")
